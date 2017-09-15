@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: kofi.io
-subtitle: Subtitle
+title: Kofi.IO
+subtitle: Musings of an Engineer
 description: A description
 author: Dennis Adjei-Baah
 language:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-overdose
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
