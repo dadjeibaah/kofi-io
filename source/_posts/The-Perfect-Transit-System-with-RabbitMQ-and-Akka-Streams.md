@@ -5,7 +5,11 @@ banner:
   url: /images/akka-rabbit.png
   width: 640
   height: 360
-tags:
+tags: 
+    - Akka
+    - Scala
+    - RabbitMQ
+categories: Backend Engineering
 ---
 Sitting in the train with no A/C stuck in the transit tunnel for more than 30 minutes. I yelled "I can build a better transit system than this!"
 
